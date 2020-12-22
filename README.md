@@ -38,7 +38,7 @@ The Salary Data dataset contains the following columns:
 - **Salary** - respective salary of each employee (dependent variable)
 
 ### --------------------------------------------------------------------------------------------------------
-### Table of Contents
+### Table of Contents:
 1. File Descriptions
 2. Technologies Used
 3. Structure of Notebook
