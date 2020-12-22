@@ -1,6 +1,6 @@
-### -----------------------------------------------------------------------------------------------------------------------------
+### --------------------------------------------------------------------------------------------------------
 # Simple Linear Regression - Salary Data
-### ----------------------------------------------------------------------------------------------------------
+### --------------------------------------------------------------------------------------------------------
 ### Linear Regression:
 - an **algorithm**:
     - based on **Supervised Learning**
@@ -29,7 +29,7 @@
   - Process optimization
   - Number of calls
   - Total sales
-### -----------------------------------------------------------------------------------------------------------------------------
+### --------------------------------------------------------------------------------------------------------
 ### Project Objective: Predicting salary of employee
 Create a model that allows to return back an estimate of the salary of an employee given how many years of experience they have. Information about the salaries is in the dataset 'Salary_Data.csv' of 'Data' folder.
 
@@ -37,4 +37,4 @@ The Salary Data dataset contains the following columns:
 - **YearsExperience** - number of years of experience (independent variable)
 - **Salary** - respective salary of each employee (dependent variable)
 
-### -----------------------------------------------------------------------------------------------------------------------------
+### --------------------------------------------------------------------------------------------------------
