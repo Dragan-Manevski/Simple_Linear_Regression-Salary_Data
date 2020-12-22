@@ -44,22 +44,19 @@ The Salary Data dataset contains the following columns:
 3. Structure of Notebook
 4. Executive Summary
 
-### --------------------------------------------------------------------------------------------------------
 #### 1. File Descriptions
--**Data** : folder containing all data files
--**Images** : folder containing images used for README
--**Models** : folder containing trained models saved with pickle
+- **Data** : folder containing all data files
+- **Images** : folder containing images used for README
+- **Models** : folder containing trained models saved with pickle
 
-### --------------------------------------------------------------------------------------------------------
 #### 2. Technologies Used
--**Python**
--**Pandas**
--**Numpy**
--**Matplotlib**
--**Seaborn**
--**Scikit-Learn**
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
 
-### --------------------------------------------------------------------------------------------------------
 #### 3. Structure of Notebook
 1. Import the Libraries
 2. Load the Data
@@ -80,6 +77,5 @@ The Salary Data dataset contains the following columns:
     5.7 Evaluate the model on Testing data
 6. Predict the label on new data
 
-### --------------------------------------------------------------------------------------------------------
 #### 4. Executive Summary
 TBA
