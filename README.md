@@ -61,32 +61,20 @@ The Salary Data dataset contains the following columns:
 1. Import the Libraries
 2. Load the Data
 3. Exploratory Data Analysis
-    
-    3.1 Check out the Data
-    
-    3.2 Data Visualization
+  3.1 Check out the Data
+  3.2 Data Visualization
 4. Data Preprocessing and Feature Engineering
-    
-    4.1 Identify the variables
-    
-    4.2 Dealing with Missing values
-    
-    4.3 Dealing with Outliers
+  4.1 Identify the variables
+  4.2 Dealing with Missing values
+  4.3 Dealing with Outliers
 5. Train and Test the Linear Regresion model
-    
-    5.1 Split the columns
-    
-    5.2 Split the data into Training dataset and Testing dataset
-    
-    5.3 Create the Linear Regression model
-    
-    5.4 Train / fit the Linear Regression model
-    
-    5.5 Calculate the coefficients of Linear Regression equation
-    
-    5.6 Predictions from the model on Testing data
-    
-    5.7 Evaluate the model on Testing data
+  5.1 Split the columns
+  5.2 Split the data into Training dataset and Testing dataset
+  5.3 Create the Linear Regression model
+  5.4 Train / fit the Linear Regression model
+  5.5 Calculate the coefficients of Linear Regression equation
+  5.6 Predictions from the model on Testing data
+  5.7 Evaluate the model on Testing data
 6. Predict the label on new data
 
 #### 4. Executive Summary
