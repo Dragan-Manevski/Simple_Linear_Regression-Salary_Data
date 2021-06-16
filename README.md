@@ -45,8 +45,8 @@ The Salary Data dataset contains the following columns:
 4. Executive Summary
 
 #### 1. File Descriptions
-- **Data** : folder containing all data files
 - Simple Linear Regression - Salary_Data.ipynb
+- Salary_Data.csv
 - README.md
 
 #### 2. Technologies Used
