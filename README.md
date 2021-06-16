@@ -4,6 +4,7 @@
 ### Linear Regression:
 - an **algorithm**:
     - based on **Supervised Learning**
+    - to solve **Regression problems**
     - where machines **learn with supervision**
     - **input data are labeled** and **expected output data is known**
     - used **to predict continuous (quantitative) numeric output value (y) based on given continuous (quantitative) numeric input variable(s) (x)**
